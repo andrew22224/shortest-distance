@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\zamamee\documents\shortestdistances\main.cpp
+	<iostream>
+
+1401533901 source:c:\users\zamamee\documents\shortestdistances\src\point.cpp
+	<cmath>
+	"point.h"
+
+1401543810 c:\users\zamamee\documents\shortestdistances\include\point.h
+	<ostream>
+
+1401533916 source:c:\users\zamamee\documents\shortestdistances\src\edge.cpp
+	"edge.h"
+
+1401543810 c:\users\zamamee\documents\shortestdistances\include\edge.h
+	<ostream>
+	"vertex.h"
+
+1401543810 c:\users\zamamee\documents\shortestdistances\include\vertex.h
+	<set>
+	<ostream>
+
+1401545442 source:c:\users\zamamee\documents\shortestdistances\src\vertex.cpp
+	"vertex.h"
+
+1401545482 source:c:\users\zamamee\documents\shortestdistances\src\graph.cpp
+	"graph.h"
+	"disjointset.h"
+	<iomanip>
+
+1401545404 c:\users\zamamee\documents\shortestdistances\include\graph.h
+	<iostream>
+	<queue>
+	"vertex.h"
+	"edge.h"
+
+1396146792 source:c:\users\zamamee\documents\shortestdistances\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1396146844 c:\users\zamamee\documents\shortestdistances\include\random.h
+
+1401516560 source:c:\users\zamamee\documents\shortestdistances\src\roads.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"random.h"
+	"point.h"
+	"graph.h"
+
+1401544174 source:c:\users\zamamee\documents\shortestdistances\src\disjointset.cpp
+	"disjointset.h"
+
+1401543810 c:\users\zamamee\documents\shortestdistances\include\disjointset.h
+
+1434851407 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\disjointset.cpp
+	"disjointset.h"
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\disjointset.h
+
+1434851407 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\edge.cpp
+	"edge.h"
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\edge.h
+	<ostream>
+	"vertex.h"
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\vertex.h
+	<set>
+	<ostream>
+
+1434851407 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\graph.cpp
+	"graph.h"
+	"disjointset.h"
+	<iomanip>
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\graph.h
+	<iostream>
+	<queue>
+	"vertex.h"
+	"edge.h"
+
+1434851407 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\point.cpp
+	<cmath>
+	"point.h"
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\point.h
+	<ostream>
+
+1434851408 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1434851407 c:\users\zamamee\desktop\for github roames\shortestdistances\include\random.h
+
+1434851408 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\roads.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"random.h"
+	"point.h"
+	"graph.h"
+
+1434851408 source:c:\users\zamamee\desktop\for github roames\shortestdistances\src\vertex.cpp
+	"vertex.h"
+
